@@ -5,92 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cf3197a-71ff-44bd-a608-3670b7fcb6f4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Personal-homepage.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/all.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/css/animate.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/css/line-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/css/megapack-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/css/owl.carousel.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/dnxk.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/fonts/la-brands-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/fonts/la-brands-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/fonts/la-brands-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/fonts/la-brands-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/fonts/la-brands-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/fonts/la-regular-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/fonts/la-regular-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/fonts/la-regular-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/fonts/la-regular-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/fonts/la-regular-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/fonts/la-solid-900.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/fonts/la-solid-900.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/fonts/la-solid-900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/fonts/la-solid-900.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/fonts/la-solid-900.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/img/contact.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/img/demo/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/img/demo/blog1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/img/demo/blog2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/img/demo/blog3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/img/demo/porri.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/img/gallery/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/img/gallery/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/img/gallery/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/img/gallery/04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/img/gallery/05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/img/logo-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/img/parallax-feature.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/img/portfolio/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/img/portfolio/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/img/portfolio/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/img/portfolio/04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/img/portfolio/05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/img/portfolio/06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/Pio-ts-master/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/Pio-ts-master/Pio.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/Pio-ts-master/Pio.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/Pio-ts-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/Pio-ts-master/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/countdown.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/imagesloaded.pkgd.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/isotope.pkgd.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/jquery.barfiller.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/jquery.counterup.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/jquery.parallax-1.1.3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/jquery.ripples-min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/jquery.scrollUp.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/jquery.slicknav.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/maodiao.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/megapack-main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/owl.carousel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/particles.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/scrollreveal.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/tilt.jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/typewritter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/vendor/jquery-1.12.4.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/vendor/modernizr-3.6.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/js/waypoints.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/love.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/lovebgm.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/text.cur" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal homepage/voice.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +29,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "ignore_missing_gitignore": "true",
     "last_opened_file_path": "C:/Users/Administrator/Desktop/Personal-homepage/Personal homepage/img",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -151,7 +69,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732174113323</updated>
-      <workItem from="1732174115649" duration="1871000" />
+      <workItem from="1732174115649" duration="2719000" />
+      <workItem from="1732251953527" duration="163000" />
     </task>
     <servers />
   </component>
